@@ -42,9 +42,3 @@ It’s simple on the surface, but it’s all about the fundamentals:
 - VS Code  
 - macOS Terminal  
 
----
-
-## 🚀 Getting Started  
-Clone the project to your local machine:  
-```bash
-git clone git@github.com:dashielllefrancis/odin-recipes.git
